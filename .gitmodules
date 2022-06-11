@@ -1,6 +1,6 @@
 [submodule "smoothener"]
 	path = smoothener
-	url = https://github.com/whoenig/smoothener.git
+	url = git@github.com:whoenig/smoothener.git
 [submodule "libMultiRobotPlanning"]
 	path = libMultiRobotPlanning
-	url = https://github.com/whoenig/libMultiRobotPlanning.git
+	url = git@github.com:whoenig/libMultiRobotPlanning.git
